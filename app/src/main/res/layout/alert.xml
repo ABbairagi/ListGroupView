@@ -20,10 +20,6 @@
         android:background="@drawable/custom_color_back"
         android:orientation="vertical">
 
-        android:layout_marginTop="30dp"
-        android:background="@drawable/test_background"
-        android:orientation="vertical">
-
         <TextView
             android:id="@+id/alert_text_view"
             android:layout_width="match_parent"
